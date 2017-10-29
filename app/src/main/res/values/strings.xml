@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Google Books listing</string>
+    <string name="books_listing">Google Books listing</string>
+    <string name="searchresults">booksSearchResults</string>
+    <string name="no_books_found">No Books found</string>
+    <string name="Book">Book :</string>
+    <string name="Author">Author :</string>
+    <string name="Http_problem_message">Problem making the HTTP request.</string>
+    <string name="url_problem_message">Problem building the URL</string>
+    <string name="response_error">Error response code:</string>
+    <string name="problem_parsing">Problem parsing the Book JSON results</string>
+    <string name="json_problem">Problem retrieving the Book JSON results.</string>
+    <string name="Nointernet_message">No Intenet Connection</string>
+</resources>
